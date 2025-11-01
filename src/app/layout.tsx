@@ -7,11 +7,11 @@ import { Header } from '@/components/Header'
 
 export const metadata: Metadata = {
   title: {
-    template: '🏪 %s - Pass Dukan',
-    default: '🏪 Pass Dukan - Grocery and Sabji made simple',
+    template: 'Rettel — Your AI News Curator',
+    default: 'Rettel — Your AI News Curatore',
   },
   description:
-    "Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don't get audited.",
+    'Rettel is your personal AI content curation agent. Get the most relevant news, blogs, and podcasts across your favorite topics — delivered straight to your inbox. Stay informed, effortlessly.',
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
