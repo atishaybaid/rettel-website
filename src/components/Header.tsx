@@ -127,7 +127,7 @@ export function Header() {
               aria-label="Home"
               className="flex items-center gap-x-2"
             >
-              <BuildingStorefrontIcon className="h-6 w-6 text-blue-600 sm:h-7 sm:w-7 md:h-8 md:w-8" />
+              {/* <BuildingStorefrontIcon className="h-6 w-6 text-blue-600 sm:h-7 sm:w-7 md:h-8 md:w-8" /> */}
               <span className="font-display text-xl font-semibold text-slate-900 sm:text-2xl md:text-3xl">
                 Rettel
               </span>

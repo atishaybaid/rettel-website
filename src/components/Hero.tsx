@@ -33,8 +33,9 @@ export function Hero() {
       </p>
       <div className="mt-8 flex flex-col items-center gap-4 sm:mt-10 sm:flex-row sm:justify-center sm:gap-x-6">
         <Button
-          href="/register"
-          className="w-full px-6 py-3 text-base sm:w-auto sm:text-lg"
+          href="https://forms.gle/H9dx7CBTdztLZ4Cu7"
+          className="sm:text-l w-full px-6 py-3 text-base hover:cursor-pointer sm:w-auto"
+          target="_blank"
         >
           Try Rettel Early
         </Button>
