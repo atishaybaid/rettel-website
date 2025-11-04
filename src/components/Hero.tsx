@@ -28,7 +28,7 @@ export function Hero() {
         </span>
       </h1>
       <p className="mx-auto mt-4 max-w-2xl text-base tracking-tight text-slate-700 sm:mt-6 sm:text-lg md:text-xl">
-        Rettel keeps you updated on topics you care about It’s a small step away from noisy feeds and toward updates that are actually relevant to you. No clutter. No noise. Just what matters.
+        Rettel keeps you updated on topics you care about. It’s a small step away from noisy feeds and toward updates that are actually relevant to you. No clutter. No noise. Just what matters.
       </p>
       <div className="mt-8 flex flex-col items-center gap-4 sm:mt-10 sm:flex-row sm:justify-center sm:gap-x-6">
         <Button
