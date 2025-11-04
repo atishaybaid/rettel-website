@@ -13,7 +13,8 @@ export function Hero() {
   return (
     <Container className="pt-12 pb-10 text-center sm:pt-16 sm:pb-12 md:pt-20 md:pb-16 lg:pt-32">
       <h1 className="mx-auto max-w-4xl font-display text-4xl font-medium tracking-tight text-slate-900 sm:text-5xl md:text-6xl lg:text-7xl">
-        Your AI Agent for Smarter News Discovery{' '}
+        Stay informed {' '}
+          <span className="text-sky-300">effortlessly</span>
         <span className="relative whitespace-nowrap text-blue-600">
           <svg
             aria-hidden="true"
@@ -27,9 +28,7 @@ export function Hero() {
         </span>
       </h1>
       <p className="mx-auto mt-4 max-w-2xl text-base tracking-tight text-slate-700 sm:mt-6 sm:text-lg md:text-xl">
-        Rettel is your personal AI content curator that delivers the most
-        relevant news and insights on topics you care about — directly to your
-        inbox. No clutter. No noise. Just what matters.
+        Rettel keeps you updated on topics you care about It’s a small step away from noisy feeds and toward updates that are actually relevant to you. No clutter. No noise. Just what matters.
       </p>
       <div className="mt-8 flex flex-col items-center gap-4 sm:mt-10 sm:flex-row sm:justify-center sm:gap-x-6">
         <Button
