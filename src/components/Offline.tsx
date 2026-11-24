@@ -25,13 +25,13 @@ export function Offline() {
         </p>
       </main>
       <footer className="text-[14px] leading-[normal] text-white/60">
-        Built by{' '}
+        {/* Built by{' '}
         <a
           href={LINKEDIN_URL}
           className="border-b border-white/30 py-3 font-semibold text-white/70 no-underline hover:text-[#EE8877]"
         >
           Pradhuman Singh Baid
-        </a>
+        </a> */}
       </footer>
     </div>
   )
